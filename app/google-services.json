@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "237226331260",
+    "project_id": "payingguest-d6d49",
+    "storage_bucket": "payingguest-d6d49.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237226331260:android:54beb2a0cf13db7eb50df9",
+        "android_client_info": {
+          "package_name": "com.example.uddishverma.pg_app_beta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237226331260-qo887ad480e8u65bnnag27mc1c92vggu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOUgU5h4T8eG4o79Ry_4Pc5K67ANu-pcc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "237226331260-qo887ad480e8u65bnnag27mc1c92vggu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
