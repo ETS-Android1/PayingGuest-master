@@ -45,4 +45,4 @@ LOGIN AND SIGN UP->
 
 NAVIGATION DRAWER ->
 
-![alt text](screenshots/navdrawer.png "Sign Up")    ![alt text](screenshots/myaccount.png "Sign Up")
+![alt text](screenshots/navdrawer.png "Sign Up")
