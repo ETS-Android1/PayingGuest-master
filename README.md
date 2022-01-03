@@ -18,7 +18,7 @@ MAIN SCREEN->
 REGISTER PG ACTIVITY->
 This activity allows only the signed in users to register their PG and list it in the app using firebase realtime database
 
-![alt text](screenshots/register1.png "Register PG")               ![alt text](screenshots/register2.png "Register PG")
+![alt text](screenshots/register1.png "Register PG")           
 ![alt text](screenshots/register3.png "Register PG")                 ![alt text](screenshots/register4.png "Register PG")
 
 FIND PG ACTIVITY->
@@ -40,8 +40,7 @@ LOGIN AND SIGN UP->
 
 ![alt text](screenshots/signup1.png "Sign Up")   
 
-FILTERS->
-PGs can be Filtered by selecting the appropriate one from the toolbar.
+
 
 ![alt text](screenshots/filter.png "Filter")   
 
