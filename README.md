@@ -42,8 +42,6 @@ LOGIN AND SIGN UP->
 
 
 
-![alt text](screenshots/filter.png "Filter")   
-
 
 NAVIGATION DRAWER ->
 
